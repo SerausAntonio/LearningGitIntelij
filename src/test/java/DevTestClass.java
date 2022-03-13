@@ -4,4 +4,8 @@ public class DevTestClass {
         System.out.println("DevTestClass!!!");
         //Antonio added this!!!
     }
+
+    public void bla(){
+        System.out.println("Bla bla bla");
+    }
 }
