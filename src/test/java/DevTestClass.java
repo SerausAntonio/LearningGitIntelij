@@ -9,4 +9,8 @@ public class DevTestClass {
     public static void bla(){
         System.out.println("Bla bla bla");
     }
+    // This is a new class
+    public static void miaw(){
+        System.out.println("Miaw miaw");
+    }
 }
