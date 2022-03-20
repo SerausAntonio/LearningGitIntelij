@@ -4,6 +4,7 @@ public class DevTestClass {
         System.out.println("DevTestClass!!!");
         //Antonio added this!!!
         bla();
+        miaw();
     }
 //This is a commit
     public static void bla(){
