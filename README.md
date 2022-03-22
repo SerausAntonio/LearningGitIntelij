@@ -1,3 +1,2 @@
 # LearningGitIntelij
-This is a feature branch
-created from the master branch on github.
+This is the second feature branch created from github.
